@@ -1,0 +1,13 @@
+Id;Product Name;Unit Price;Quantity;Created_at;Updated_at;Category;Inventory;Image
+1XTT9;Logitech K650;30;200;2023-12-02 14:49;2023-12-07 11:51;Keyboard;0LYX;data\images\phone.jpg
+2KRPZ;Dell XPS 13;1200;50;2023-12-02 15:30;2023-12-07 12:15;Laptop;V5IU;data\images\laptop.png
+3MHNW;Samsung Galaxy S21;800;100;2023-12-07 13:20;2023-12-08 06:36;Smartphone;DUQF;data\images\phone.jpg
+JWDI3;Sony WH-1000XM4;100;25;2023-12-08 06:32;2023-12-08 06:32;Smartphone;DUQF;data\images\phone1.jpg
+QUB28;HP Pavilion;300;150;2023-12-08 06:33;2023-12-08 06:33;Laptop;DUQF;data\images\laptop2.jpg
+4DSO5;Logitech G Pro;250;15;2023-12-08 06:33;2023-12-08 06:33;Keyboard;0LYX;data\images\keyboard1.jpg
+1QNQ6;iPhone 13;1000;20;2023-12-08 06:34;2023-12-08 06:34;Smartphone;DUQF;data\images\phone.jpg
+GOZY6;Bose QuietComfort 35 II;300;150;2023-12-08 06:35;2023-12-08 06:35;Headphone;DUQF;data\images\headphone1.jpg
+41QPM;Acer Aspire 5;500;300;2023-12-08 06:35;2023-12-08 06:35;Laptop;0LYX;data\images\laptop1.jpg
+WNR8Y;Asus ROG Zephyrus G14;1300;200;2023-12-08 06:37;2023-12-08 06:37;Laptop;DUQF;data\images\laptop.png
+HF68G;Dell Inspiron;800;135;2023-12-08 06:37;2023-12-08 06:37;Laptop;DUQF;data\images\laptop1.jpg
+T94I8;Test;200;50;2023-12-10 14:31;2023-12-10 14:31;Keyboard;DUQF;data\images\keyboard1.jpg
